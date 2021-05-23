@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+float firstnum, secondnum, product;
+cout<<"enter two no's";
+cin>>firstnum>>secondnum;
+product = firstnum*secondnum;
+count<<"product="<<product;
+return 0;
+}
